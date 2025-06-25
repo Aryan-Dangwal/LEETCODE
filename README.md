@@ -7,8 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

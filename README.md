@@ -38,17 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Sliding Window

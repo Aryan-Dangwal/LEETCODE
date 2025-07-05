@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0412-fizz-buzz) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |

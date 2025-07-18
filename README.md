@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0412-fizz-buzz) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Math
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0367-valid-perfect-square) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

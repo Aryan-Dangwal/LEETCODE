@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->

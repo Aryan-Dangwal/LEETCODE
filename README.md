@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0151-reverse-words-in-a-string) |

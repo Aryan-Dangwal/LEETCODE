@@ -1,7 +1,7 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        // Step 1: Find the middle using slow and fast pointers
+        
         ListNode* slow = head;
         ListNode* fast = head;
         
@@ -10,7 +10,7 @@ public:
             fast = fast->next->next;
         }
 
-        // Step 2: Reverse second half starting from 'slow'
+        
         ListNode* prev = NULL;
         while(slow){
             ListNode* nextNode = slow->next;

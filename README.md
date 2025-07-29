@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
+| [2470-removing-stars-from-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Math
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0412-fizz-buzz) |
+| [2470-removing-stars-from-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

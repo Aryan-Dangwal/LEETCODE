@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0735-asteroid-collision](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2470-removing-stars-from-a-string) |

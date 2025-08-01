@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
+| [1894-merge-strings-alternately](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Math

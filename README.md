@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->

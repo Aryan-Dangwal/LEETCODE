@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0605-can-place-flowers](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0383-ransom-note) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 ## Trie
 |  |

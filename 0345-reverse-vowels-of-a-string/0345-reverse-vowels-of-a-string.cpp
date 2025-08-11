@@ -4,7 +4,7 @@ public:
         vector<char> vowels = {'a','e','i','o','u','A','E','I','O','U'};
         vector<int> idx;
 
-        // Step 1: Find vowel indices
+       
         for (int i = 0; i < s.size(); i++) {
             char c = s[i];
             for (char v : vowels) {
@@ -15,7 +15,7 @@ public:
             }
         }
 
-        // Step 2: Swap vowels using idx
+        
         int l = 0, r = idx.size() - 1;
         while (l < r) {
             swap(s[idx[l]], s[idx[r]]);

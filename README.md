@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0016-3sum-closest) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |

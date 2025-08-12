@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
 | ------- |

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |

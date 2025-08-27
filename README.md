@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |

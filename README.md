@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/Aryan-Dangwal/LEETCODE/tree/master/0367-valid-perfect-square) |
